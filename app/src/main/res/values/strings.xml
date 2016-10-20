@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimeraAplicacion</string>
+    <string name="welcome_text">Bienvenido</string>
+    <string name="button_text">Entrar</string>
+</resources>
